@@ -7,6 +7,6 @@ spring:
 logging:
   level:
     root: warn
-    com.mp.dao: trace
+    com.ameng.mapper: trace
   pattern:
     console: '%p%m%n'
