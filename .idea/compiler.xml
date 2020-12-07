@@ -7,15 +7,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="day03-code" />
+        <module name="springboot-yml" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
       <module name="day03-code" target="1.8" />
+      <module name="springboot-yml" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="day03-code" options="-parameters" />
+      <module name="springboot-yml" options="-parameters" />
     </option>
   </component>
 </project>

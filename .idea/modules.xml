@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/day01-code1/day01-code1.iml" filepath="$PROJECT_DIR$/day01-code1/day01-code1.iml" />
       <module fileurl="file://$PROJECT_DIR$/day02-code/day02-code.iml" filepath="$PROJECT_DIR$/day02-code/day02-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/day03-code/day03-code.iml" filepath="$PROJECT_DIR$/day03-code/day03-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-yml/springboot-yml.iml" filepath="$PROJECT_DIR$/springboot-yml/springboot-yml.iml" />
     </modules>
   </component>
 </project>
